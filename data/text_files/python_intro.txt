@@ -1,0 +1,8 @@
+Python is a high-level, general-purpose programming language known for its clean, readable syntax that looks similar to plain English. Created by Guido van Rossum and first released in 1991, it has become one of the most popular languages for both beginners and experienced developers across industries.
+
+Key Features of Python
+
+• Easy to read and write. Python uses simple English-like commands and relies on indentation (spaces) rather than curly brackets {} to organize code blocks.
+• Interpreted and dynamically typed. Code runs line by line through an interpreter, and you do not need to declare variable types (like numbers or text) in advance.
+• Cross-platform compatibility. Python programs run on Windows, macOS, Linux, and even small devices like the Raspberry Pi with little to no modification.
+• Extensive library support. Its massive standard library and ecosystem of third-party packages let you perform complex tasks without writing everything from scratch

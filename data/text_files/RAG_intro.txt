@@ -1,0 +1,8 @@
+Retrieval-Augmented Generation (RAG) is an AI technique that gives a large language model (LLM) access to external documents or databases so it can answer questions with verified, up-to-date facts. Think of it as giving an AI an "open-book exam" instead of forcing it to rely strictly on what it memorized during training.
+
+Why RAG Is Needed
+
+Standard LLMs face three main limitations that RAG solves:
+• Outdated knowledge. An LLM only knows information up to the date it was trained.
+• Lack of private data. Public AI models cannot see your personal notes, company wikis, or private PDFs.
+• Hallucinations. When an LLM does not know an answer, it may guess and generate confident-sounding but false information.
